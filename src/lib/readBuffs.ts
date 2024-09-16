@@ -51,8 +51,8 @@ const buffsImages = a1lib.webpackImages({
 
 	// TODO: Move this into A1 Sauce properly
 	/* Troubleshooting */
-	mediumBuffs: require('../a1sauce/dataImages/ErrorHandling/medium_buffs.data.png'),
-	largeBuffs: require('../a1sauce/dataImages/ErrorHandling/large_buffs.data.png'),
+	mediumBuffs: require('../a1sauce/DataImages/ErrorHandling/medium_buffs.data.png'),
+	largeBuffs: require('../a1sauce/DataImages/ErrorHandling/large_buffs.data.png'),
 });
 
 async function retryOperation(
